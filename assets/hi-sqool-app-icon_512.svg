@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>hi-sqool-app-icon_512</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🌿-Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-648.000000, -300.000000)">
+            <g id="hi-sqool-app-icon_512" transform="translate(648.000000, 300.000000)">
+                <path d="M24,-7.10542736e-15 L488,-7.10542736e-15 C501.254834,-9.54030086e-15 512,10.745166 512,24 L512,488 C512,501.254834 501.254834,512 488,512 L24,512 C10.745166,512 1.623249e-15,501.254834 0,488 L0,24 C-1.623249e-15,10.745166 10.745166,-4.67055385e-15 24,-7.10542736e-15 Z" id="Rectangle" fill="#FF8F00"></path>
+                <polygon id="Hi" fill="#FFFFFF" points="302.805691 384 265.142857 384 265.142857 269.714286 146.285714 269.714286 146.285714 384 109.714286 384 109.714286 128 146.285714 128 146.285714 233.142857 265.142857 233.142857 265.142857 128 302.805691 128"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="393.142857 384 356.571429 384 356.571429 201.142857 393.142857 201.142857"></polygon>
+                <circle id="Oval" fill="#FFFFFF" cx="374.857143" cy="146.285714" r="27.4285714"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

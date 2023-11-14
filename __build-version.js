@@ -1,0 +1,1 @@
+module.exports={version:"1.2.0",versionCode:"23091444",revision:"8edf5afb",branch:"HEAD",production:!0};
